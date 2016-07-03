@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1abfcbe7-23fd-421a-8e73-2cb70fe43393" name="Production" url="http://matthinea.info">
+        <fileTransfer host="matthinea.info" port="21" rootFolder="/matthinea.info" password="dfc5dfc7dfcddfdddfdedfccdf93df93df8b" username="mathin24">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0f30eae4-2437-4a00-813e-4e1167451b47" name="Development" url="http://dev.matthinea.info">
+        <fileTransfer host="dev.matthinea.info" port="21" rootFolder="/dev.matthinea.info" password="dfc5dfc7dfcddfdddfdedfccdf93df93df8b" username="mathin24">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
