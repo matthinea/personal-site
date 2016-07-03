@@ -1,4 +1,9 @@
 * {
-  font-family: 'Hind Madurai', sans-serif !important; }
+  font-family: 'Hind Madurai', sans-serif !important;
+  background-color: white; }
+
+#down-arrows {
+  width: 40px;
+  height: 40px; }
 
 /*# sourceMappingURL=styles.css.map */
